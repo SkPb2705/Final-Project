@@ -1,0 +1,90 @@
+.logo_image{
+    width: 50px;
+    height: 50px;
+}
+
+h1{
+    font-family:  "Montserrat";
+}
+
+.navbar{
+    background-color: #CFD6C7;
+}
+
+.description{
+    width: 40%;
+    margin-left: 30.5%;
+   
+}
+
+.image_setting{
+    height: 400px !important;
+    width: 1025px !important;
+    margin-left: 10%;
+}
+
+.btn_small{
+    height: 30%;
+    width: 10%;
+    margin-top: 10%;
+}
+.productspecification{
+    width: 55rem;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.productdescription{
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 11%;
+}
+
+.product{
+    margin-top: 5%;
+    background-color: #CFD6C7;
+    padding: 0 10px 20px 10px;
+}
+.about{
+margin-top: 5%;
+}
+.pdt{
+    width: 30%;
+    height: 85%;
+    margin-left: 25%;
+    margin-top: 5%;
+    
+}
+.faq{
+    
+    background:  #CFD6C7;;
+}
+.quest{
+    margin-left: 30%;
+    padding: 2%;
+}
+
+.footer{
+    color: #485e2c;
+    font-size: 25px;
+    font-weight: 800;
+    font-family: Monserrat;
+}
+
+.footerbg{
+    background-color: #CFD6C7;
+    padding: 10%;
+}
+
+hr{
+    background-color: black;
+}
+
+h1{
+    color: #485e2c ;
+}
+
+.product_image{
+    width: 90%;
+    padding: 8%;
+    margin-left: 8%;
+}
